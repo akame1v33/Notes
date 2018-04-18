@@ -1,0 +1,32 @@
+
+
+@GitCommand
+git init -to initialize git to new folder that doesn't uploaded yet in repo
+git add . -a text.txt Staging layer.
+git commit -m "MESSAGE" Save
+git push origin  master
+	 (Remote)(Branch)
+git pull origin master
+
+
+git branch graphics - creating a graphic branch
+git checkout graphics -switching to graphic branch
+
+git remote remove origin
+git remote -v - verbose
+git remote remove origin
+git remote add 
+
+git merge graphics
+
+@UnixCommand
+cd    - to go inner folder
+pwd   - to show current directory
+ls    - to show list
+clear - to clear
+
+
+@GitConfigCommand
+git config --global user.mail = ""
+git config --global user.user = ""
+git config --list
